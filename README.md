@@ -41,6 +41,6 @@ mvn spring-boot:run
 
 ![image](https://github.com/user-attachments/assets/ba869af8-82a0-48fb-9801-17c268594efa)
 
-Frontend (Optional)
+Frontend (Optional):<br>
 A simple React frontend can be added for managing rent data. Refer to the rent-app Vite-based frontend for integration.
 
